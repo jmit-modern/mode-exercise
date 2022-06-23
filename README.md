@@ -1,5 +1,7 @@
 # mode-exercise
 
+NodeJS Solution for https://github.com/tinkermode/mode-assignment-general-v2
+
 ## Prerequisite
 You need to install Yarn package manager, or Npm packagemanager prior to installation.
 
